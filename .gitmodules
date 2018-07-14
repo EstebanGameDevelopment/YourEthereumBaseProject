@@ -1,0 +1,9 @@
+[submodule "Assets/YourCommonTools"]
+	path = Assets/YourCommonTools
+	url = https://github.com/EstebanGameDevelopment/YourCommonTools.git
+[submodule "Assets/YourEthereumController"]
+	path = Assets/YourEthereumController
+	url = https://github.com/EstebanGameDevelopment/YourEthereumController.git
+[submodule "Assets/YourEthereumScreens"]
+	path = Assets/YourEthereumScreens
+	url = https://github.com/EstebanGameDevelopment/YourEthereumScreens.git
