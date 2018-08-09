@@ -1,3 +1,11 @@
+ This project is based on NEthereum:
+ 
+ https://github.com/Nethereum/Nethereum/releases/tag/3.0.0-rc1
+ 
+ You can get the necessary DLLs to make the project work here:
+ 
+ https://github.com/Nethereum/Nethereum/releases/download/3.0.0-rc1/unitynet35dlls.zip
+ 
 --------------------------
 --------------------------
 YOUR ETHEREUM BASE PROJECT
